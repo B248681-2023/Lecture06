@@ -10,7 +10,7 @@ protein database search programs", Nucleic Acids Res. 25:3389-3402.
 
 Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
 excluding environmental samples from WGS projects
-           628,028,963 sequences; 245,720,712,058 total letters
+           629,760,389 sequences; 246,488,516,548 total letters
 
 
 
@@ -18,7 +18,7 @@ Query= NC_015119.1:1426-2962 Boreus elegans mitochondrion, complete genome
 
 Length=1537
 
-RID: JZYCY2J4016
+RID: KUHT7Y4B013
                                                                       Score     E
 Sequences producing significant alignments:                          (Bits)  Value
 
@@ -347,6 +347,7 @@ AMH85566.1 cytochrome c oxidase subunit I [Archisepsis discolor]      608     0.
 YP_010249763.1 cytochrome c oxidase subunit I [Prodiamesa olivace...  608     0.0  
 YP_010545620.1 cytochrome c oxidase subunit I, partial [Tabanus p...  608     0.0  
 QXG19175.1 cytochrome c oxidase subunit I [Drosophila buzzatii]       608     0.0  
+WOE90335.1 cytochrome c oxidase subunit I [Lispe neimongola]          608     0.0  
 YP_010894925.1 cytochrome c oxidase subunit I, partial [Phortica ...  607     0.0  
 QXG19539.1 cytochrome c oxidase subunit I [Drosophila subobscura]     607     0.0  
 AIW06317.1 cytochrome c oxidase subunit I, partial [Drosophila er...  607     0.0  
@@ -521,7 +522,6 @@ YP_010262585.1 cytochrome c oxidase subunit I, partial [Drosophil...  605     0.
 AMR55459.1 cytochrome oxidase subunit I [Hydrotaea velutina]          605     0.0  
 ACD55025.1 cytochrome c oxidase subunit I [Zaprionus tuberculatus]    605     0.0  
 AFK73675.1 cytochrome oxidase subunit I [Hypopygiopsis violacea]      605     0.0  
-AWH62898.1 cytochrome c oxidase subunit I [Hydrotaea leucostoma]      605     0.0  
 
 
 >ADW83149.1 cytochrome c oxidase subunit I [Boreus elegans]
@@ -11767,14 +11767,14 @@ Gapped
 Lambda      K        H
    0.267   0.0410    0.140 
 
-Effective search space used: 47177706099480
+Effective search space used: 47330626099889
 
 
   Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
 excluding environmental samples from WGS projects
-    Posted date:  Oct 14, 2023 12:42 AM
-  Number of letters in database: 245,720,712,058
-  Number of sequences in database:  628,028,963
+    Posted date:  Oct 25, 2023 12:42 AM
+  Number of letters in database: 246,488,516,548
+  Number of sequences in database:  629,760,389
 
 
 
